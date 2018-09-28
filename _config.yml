@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Penghui Guo
+logo: avatar.png
+show_downloads: false
+google_analytics: UA-126632755-1
