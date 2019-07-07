@@ -5,7 +5,7 @@ Nanjing University of Aeronautics and Astronautics<br>
 29 Jiangjun Avenue, Nanjing<br>
 Jiangsu, China 211106<br>
 Email: m@guo.ph<br>
-[My CV](./Penghui Guo - CV.pdf)
+[My CV](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf)
 
 ## Education
 
