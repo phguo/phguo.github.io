@@ -7,7 +7,7 @@ Jiangsu, China 211106
 
 Email: m@guo.ph
 
-# Education
+## Education
 
 __Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
 
@@ -25,20 +25,20 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 - __Henan Polytechnic University__, Jiaozuo, China
 
-# Research Interests
+## Research Interests
 
 - Vehicle Routing Problem<br>
 - Logistics and Supply Chain Management<br>
 - Disaster Operations Management<br>
 - Optimization Modeling and Algorithms
 
-# Research Experience
+## Research Experience
 
 Project Supported by Foundation of Graduate Innovation Center in NUAA, 2017 - 2018
 
 - Name of the Project: _Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem_
 
-# Publication
+## Publications
 
 [1] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Location-routing-allocation Problem with Heterogeneous Materials Transportation in Post Disaster Relief. _Systems Engineering - Theory & Practice_, Accepted.
 
@@ -46,13 +46,13 @@ Project Supported by Foundation of Graduate Innovation Center in NUAA, 2017 - 20
 
 _(* represents the corresponding author)_
 
-# Project
+## Projects
 
 VRP2E https://github.com/phguo/VRP2E, Jan. 2018
 
 - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
 
-# Honors and Awards
+## Honors and Awards
 
 - 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 <br>
 - Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019<br>
