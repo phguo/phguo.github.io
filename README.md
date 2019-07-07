@@ -1,13 +1,73 @@
 # Penghui Guo
+
 College of Economics and Management
-Nanjing University of Aeronautics and Astronautics
 
-# Contact
+Nanjing University of Aeronautics and Astronautics 
 
-# Education Background
+29 Jiangjun Avenue, Nanjing 
+
+Jiangsu, China 211106
+
+Email: m@guo.ph
+
+# Education
+
+__Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
+
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China
+
+- Concentrations: Logistics and Supply Chain Management
+
+__M.S.__, Management Science and Engineering, Apr. 2019
+
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China
+
+- Concentrations: Disaster Operations Management
+
+- Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_
+
+__B.S.__, Industrial Engineering, Jul. 2015
+
+- __Henan Polytechnic University__, Jiaozuo, China
+
+# Research Interests
+
+- Vehicle Routing Problem
+
+- Logistics and Supply Chain Management
+
+- Disaster Operations Management
+
+- Optimization Modeling and Algorithms
+
+# Research Experience
+
+Project Supported by Foundation of Graduate Innovation Center in NUAA, 2017 - 2018
+
+- Name of the Project: _Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem_
 
 # Publication
 
+[1] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Location-routing-allocation Problem with Heterogeneous Materials Transportation in Post Disaster Relief. _Systems Engineering - Theory & Practice_, Accepted.
+
+[2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6),62-70.
+
+_(* represents the corresponding author)_
+
 # Project
 
-# Award
+VRP2E https://github.com/phguo/VRP2E, Jan. 2018
+
+- A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+
+# Honors and Awards
+
+- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 
+
+- Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
+
+- 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
+
+- 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018
+
+- 3rd Price of the 14th China Post-Graduate Mathematical Contest in Modeling, Dec. 2017
