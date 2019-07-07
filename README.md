@@ -1,11 +1,8 @@
 # Penghui Guo
 
-College of Economics and Management
-
-Nanjing University of Aeronautics and Astronautics 
-
-29 Jiangjun Avenue, Nanjing 
-
+College of Economics and Management<br>
+Nanjing University of Aeronautics and Astronautics<br>
+29 Jiangjun Avenue, Nanjing<br>
 Jiangsu, China 211106
 
 Email: m@guo.ph
@@ -14,17 +11,15 @@ Email: m@guo.ph
 
 __Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
 
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China
-
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China<br>
 - Concentrations: Logistics and Supply Chain Management
 
 __M.S.__, Management Science and Engineering, Apr. 2019
 
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China
-
-- Concentrations: Disaster Operations Management
-
-- Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China<br>
+- Concentrations: Disaster Operations Management<br>
+- Thesis: _Models and Algorithms for Post Disaster
+Rescue Route Optimization_
 
 __B.S.__, Industrial Engineering, Jul. 2015
 
@@ -32,12 +27,9 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 # Research Interests
 
-- Vehicle Routing Problem
-
-- Logistics and Supply Chain Management
-
-- Disaster Operations Management
-
+- Vehicle Routing Problem<br>
+- Logistics and Supply Chain Management<br>
+- Disaster Operations Management<br>
 - Optimization Modeling and Algorithms
 
 # Research Experience
@@ -62,12 +54,8 @@ VRP2E https://github.com/phguo/VRP2E, Jan. 2018
 
 # Honors and Awards
 
-- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 
-
-- Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
-
-- 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
-
-- 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018
-
+- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 <br>
+- Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019<br>
+- 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018<br>
+- 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018<br>
 - 3rd Price of the 14th China Post-Graduate Mathematical Contest in Modeling, Dec. 2017
