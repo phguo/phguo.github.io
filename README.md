@@ -34,9 +34,8 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Research Experience
 
-Project Supported by Foundation of Graduate Innovation Center in NUAA, 2017 - 2018
-
-- Name of the Project: _Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem_
+- Project Supported by Foundation of Graduate Innovation Center in NUAA, 2017 - 2018
+    - Name of the Project: _Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem_
 
 ## Publications
 
@@ -48,14 +47,14 @@ _(* represents the corresponding author)_
 
 ## Projects
 
-VRP2E https://github.com/phguo/VRP2E, Jan. 2018
-
-- A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+- VRP2E https://github.com/phguo/VRP2E, Jan. 2018
+    - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
 
 ## Honors and Awards
 
 - 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 <br>
 - Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019<br>
 - 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018<br>
+- National Scholarship for Graduate Students by Ministry of Education \\of the P.R.C \hfill Oct. 2018<br>
 - 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018<br>
 - 3rd Price of the 14th China Post-Graduate Mathematical Contest in Modeling, Dec. 2017
