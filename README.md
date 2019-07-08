@@ -5,6 +5,8 @@
 
 <a href="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf" target='_blank'>[My CV]</a>	
 
+<embed src="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf" type="application/pdf" />
+
 
 
 College of Economics and Management<br>
