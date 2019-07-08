@@ -10,26 +10,23 @@ Email: m@guo.ph<br>
 ## Education
 
 __Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
-
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China<br>
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China
 - Concentrations: Logistics and Supply Chain Management
 
 __M.S.__, Management Science and Engineering, Apr. 2019
-
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China<br>
+- __Nanjing University of Aeronautics and Astronautics__, Najing, China
 - Concentrations: Disaster Operations Management<br>
 - Thesis: _Models and Algorithms for Post Disaster
 Rescue Route Optimization_
 
 __B.S.__, Industrial Engineering, Jul. 2015
-
 - __Henan Polytechnic University__, Jiaozuo, China
 
 ## Research Interests
 
-- Vehicle Routing Problem<br>
-- Logistics and Supply Chain Management<br>
-- Disaster Operations Management<br>
+- Vehicle Routing Problem
+- Logistics and Supply Chain Management
+- Disaster Operations Management
 - Optimization Modeling and Algorithms
 
 ## Research Experience
@@ -52,9 +49,9 @@ _(* represents the corresponding author)_
 
 ## Honors and Awards
 
-- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019 <br>
-- Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019<br>
-- 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018<br>
-- National Scholarship for Graduate Students by Ministry of Education \\of the P.R.C \hfill Oct. 2018<br>
-- 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018<br>
+- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019
+- Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
+- 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
+- National Scholarship for Graduate Students by Ministry of Education of the P.R.C Oct. 2018
+- 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018
 - 3rd Price of the 14th China Post-Graduate Mathematical Contest in Modeling, Dec. 2017
