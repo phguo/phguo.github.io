@@ -3,7 +3,7 @@
 
 <!-- https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf -->
 
-<a href="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf" target='_blank'>[My CV]</a>	
+<a target="_BLANK" href="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf">[My CV]</a>	
 
 <!-- <embed src="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf" type="application/pdf" /> -->
 
