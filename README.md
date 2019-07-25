@@ -1,9 +1,9 @@
 # Penghui Guo
-<!-- [[My CV]](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf) -->
+[[My CV]](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf)
 
 <!-- https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf -->
 
-<a target="_BLANK" href="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf">[My CV]</a>	
+<!-- <a target="_BLANK" href="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf">[My CV]</a>	 -->
 
 <!-- <embed src="https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf" type="application/pdf" /> -->
 
@@ -44,9 +44,9 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
-[1] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Location-routing-allocation Problem with Heterogeneous Materials Transportation in Post Disaster Relief. _Systems Engineering - Theory & Practice_, Accepted.
+[1] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Location-routing-allocation Problem with Heterogeneous Materials Transportation in Post Disaster Relief. _Systems Engineering - Theory & Practice_, Accepted. (Chinese journal)
 
-[2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6),62-70.
+[2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6),62-70. (Chinese journal)
 
 _(* represents the corresponding author)_
 
@@ -57,7 +57,7 @@ _(* represents the corresponding author)_
 
 ## Honors and Awards
 
-- 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering and Lean Management, May 2019
+- 2nd Price of [the 2nd National Innovation Copetition of Industrial Engineering and Lean Management](http://ielean.cn/), May 2019
 - Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
 - 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
 - National Scholarship for Graduate Students by Ministry of Education of the P.R.C Oct. 2018
