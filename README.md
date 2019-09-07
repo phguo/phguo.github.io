@@ -38,7 +38,7 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
-[1] __Guo,P.__, Zhu,J.*, Wang,H.(2019). [Location-routing-allocation Problem with Heterogeneous Materials Transportation in Post Disaster Relief](https://doi.org/10.12011/1000-6788-2018-0108-16). _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal)
+[1] __Guo,P.__, Zhu,J.*, Wang,H.(2019). [Location-routing-allocation Problem with Heterogeneous Relief Supplies in Post-disaster Rescue](https://doi.org/10.12011/1000-6788-2018-0108-16). _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal)
 
 [2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). [Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm). _Systems Engineering_, 36(6),62-70. (Chinese journal)
 
