@@ -13,22 +13,29 @@ Email: m@guo.ph<br>
 
 __Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
 - __Nanjing University of Aeronautics and Astronautics__, Najing, China
+- College of Economics and Management
 - Concentrations: Logistics and Supply Chain Management
 
 __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Najing, China
+- College of Economics and Management
 - Concentrations: Disaster Operations Management<br>
 - Thesis: _Models and Algorithms for Post Disaster
 Rescue Route Optimization_
 
 __B.S.__, Industrial Engineering, Jul. 2015
 - __Henan Polytechnic University__, Jiaozuo, China
+- School of Energy Science and Engineering
+
+__Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
+- __Texas State University__, San Marcos, U.S.
+- [UTIL Lab](https://dong.wp.txstate.edu/) at Ingram School of Engineering
 
 ## Research Interests
 
-- Vehicle Routing Problem
 - Logistics and Supply Chain Management
 - Disaster Operations Management
+- Vehicle Routing Problem
 - Optimization Modeling and Algorithms
 
 ## Research Experience
