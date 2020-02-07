@@ -3,8 +3,9 @@
 
  [Download Link](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf)
 
+南京航空航天大学 经济与管理学院<br>
 College of Economics and Management<br>
-Nanjing University of Aeronautics and Astronautics<br>
+Nanjing University of Aeronautics and Astronautics <br>
 29 Jiangjun Avenue, Nanjing<br>
 Jiangsu, China 211106<br>
 Email: m@guo.ph<br>
@@ -51,8 +52,12 @@ __Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
 
 _(* represents the corresponding author)_
 
-## Projects
+## Open Source Projects
 
+- Latex2Gurobi https://github.com/phguo/Latex2Gurobi, developing
+    - Automation tools to generate Gurobi code from LaTex code.
+- PyVRP https://github.com/phguo/PyVRP, developing
+    - A Python package for plotting Vehicle Routing Problem (VRP) solutions.
 - VRP2E https://github.com/phguo/VRP2E, Jan. 2018
     - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
 
