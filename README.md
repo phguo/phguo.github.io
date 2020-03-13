@@ -66,6 +66,6 @@ _(* represents the corresponding author)_
 - 2nd Price of [the 2nd National Innovation Copetition of Industrial Engineering and Lean Management](http://ielean.cn/), May 2019
 - Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
 - 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
-- National Scholarship for Graduate Students by Ministry of Education of the P.R.C Oct. 2018
+- National Scholarship for Graduate Students by Ministry of Education of the P.R.C, Oct. 2018
 - 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest in Modeling, Jun. 2018
 - 3rd Price of the 14th China Post-Graduate Mathematical Contest in Modeling, Dec. 2017
