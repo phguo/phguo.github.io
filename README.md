@@ -13,12 +13,12 @@ Email: m@guo.ph<br>
 ## Education
 
 __Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China
+- __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
 - Concentrations: Logistics and Supply Chain Management
 
 __M.S.__, Management Science and Engineering, Apr. 2019
-- __Nanjing University of Aeronautics and Astronautics__, Najing, China
+- __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
 - Concentrations: Disaster Operations Management<br>
 - Thesis: _Models and Algorithms for Post Disaster
@@ -63,7 +63,7 @@ _(* represents the corresponding author)_
 
 ## Honors and Awards
 
-- 2nd Price of [the 2nd National Innovation Copetition of Industrial Engineering and Lean Management](http://ielean.cn/), May 2019
+- 2nd Price of [the 2nd National Innovation Competition of Industrial Engineering and Lean Management](http://ielean.cn/), May 2019
 - Outstanding Postgraduate Student of Nanjing University of Aeronautics and Astronautics, Jul. 2019
 - 3rd Price of the 15th China Post-Graduate Mathematical Contest in Modeling, Dec. 2018
 - National Scholarship for Graduate Students by Ministry of Education of the P.R.C, Oct. 2018
