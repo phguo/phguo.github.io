@@ -1,9 +1,6 @@
 # 郭鹏辉 · Penghui Guo
-[[My CV]](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf)
 
- [Download Link](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf)
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3435-6761" href="https://orcid.org/0000-0003-3435-6761" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3435-6761</a></div>
+[My CV Online](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf) | [Download My CV](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf) | [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.2em;" alt="ORCID iD icon">ORCID iD](https://orcid.org/0000-0003-3435-6761)
 
 南京航空航天大学 经济与管理学院<br>
 College of Economics and Management<br>
