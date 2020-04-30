@@ -20,8 +20,7 @@ __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
 - Concentrations: Disaster Operations Management<br>
-- Thesis: _Models and Algorithms for Post Disaster
-Rescue Route Optimization_
+- Thesis: [_Models and Algorithms for Post Disaster Rescue Route Optimization_](https://doi.org/10.27239/d.cnki.gnhhu.2019.001191)
 
 __B.S.__, Industrial Engineering, Jul. 2015
 - __Henan Polytechnic University__, Jiaozuo, China
