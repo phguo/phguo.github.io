@@ -3,18 +3,24 @@
 南京航空航天大学 经济与管理学院<br>
 College of Economics and Management<br>
 Nanjing University of Aeronautics and Astronautics <br>
-29 Jiangjun Avenue, Nanjing<br>
-Jiangsu, China 211106<br>
+29 Jiangjun Avenue<br>
+Nanjing Jiangsu, 211106 China<br>
 Email: m@guo.ph<br>
+
+Updated: 2021-04-25
 
 [My CV Online](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf) / [Download My CV](https://github.com/phguo/phguo.github.io/raw/master/Penghui%20Guo%20-%20CV.pdf) / [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.2em;" alt="ORCID iD icon">ORCID iD](https://orcid.org/0000-0003-3435-6761)
 
 ## Education
 
-__Ph.D. Student__, Management Science and Engineering, Apr. 2019 - present
+__Ph.D. Candidate__, Management Science and Engineering, Apr. 2019 - present
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
-- Concentrations: Logistics and Supply Chain Management
+- Concentrations: Disaster and Emergency Operations Management
+
+__Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
+- __Texas State University__, San Marcos, U.S.
+- [UTIL Lab](https://dong.wp.txstate.edu/) at Ingram School of Engineering
 
 __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
@@ -26,16 +32,11 @@ __B.S.__, Industrial Engineering, Jul. 2015
 - __Henan Polytechnic University__, Jiaozuo, China
 - School of Energy Science and Engineering
 
-__Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
-- __Texas State University__, San Marcos, U.S.
-- [UTIL Lab](https://dong.wp.txstate.edu/) at Ingram School of Engineering
-
 ## Research Interests
 
-- Logistics and Supply Chain Management
-- Disaster Operations Management
-- Vehicle Routing Problem
-- Optimization Modeling and Algorithms
+- __Disaster and Emergency Operations Management:__ mathematical modeling in disasters and public emergencies operations management incorporating the uncertainty.
+- __Optimization Modeling and Algorithms:__ especially stochastic optimization and integer optimization.
+- __Data-driven modeling in the public-health emergency.__
 
 ## Research Experience
 
@@ -58,6 +59,8 @@ _(* represents the corresponding author)_
     - A Python package for plotting Vehicle Routing Problem (VRP) solutions.
 - VRP2E https://github.com/phguo/VRP2E, Jan. 2018
     - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+- LRP2E-instances https://github.com/phguo/LRP2E-instances, Jan. 2018
+    - Instances data for 2-echelon vehicle routing problem (VRP2E) with resource constraints. 
 
 ## Honors and Awards
 

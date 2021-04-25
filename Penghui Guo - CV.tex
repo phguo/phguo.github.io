@@ -10,8 +10,8 @@
 % \itemsep=-0.9in
 % \parsep=-0.9in
 
-% \usepackage[margin=1.0in]{geometry}
-% \geometry{a4paper,scale=1}
+\usepackage[margin=.9in]{geometry}
+\geometry{a4paper,scale=1}
 % \geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=1cm}
 
 \textwidth=5.2in % increase textwidth to get smaller right margin
@@ -20,91 +20,166 @@
 % \usepackage{fontaxes,mweights,ebgaramond} % uses EB garamond font
 \renewcommand{\sfdefault}{lmr}
 
+% Palatino font
+% \usepackage{mathpazo}
+% \usepackage{microtype}
+
+% Chinese
+\usepackage{fontspec}
+\usepackage[slantfont, boldfont]{xeCJK}
+\setCJKmainfont{STSongti-SC-Light}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+
+
 
 \begin{document} 
 
-\name{Penghui Guo\\[12pt]} % the \\[12pt] adds a blank line after name
+\name{郭鹏辉 · Penghui Guo\\[20pt]} % the \\[12pt] adds a blank line after name
 \address{
-Nanjing University of Aeronautics and Astronautics \\
-29 Jiangjun Avenue, Nanjing \\
-Jiangsu, China 211106}
+Nanjing University of Aeronautics and Astronautics (NUAA) \\
+29 Jiangjun Avenue  \\
+Nanjing Jiangsu, 211106 China}
 \address{
-Email: guopenghui@outlook.com \\
-Homepage: https://guo.ph}
+Email: \hfill guopenghui@outlook.com \\
+Homepage: \hfill https://guo.ph \\
+Updated: \hfill 2021-04-25 \\[15pt]
+}
 
 \begin{resume} 
 
 
+
+
+
 \section{\sc Education}
-{\bf Ph.D. Student,}  Management Science and Engineering\hfill Apr. 2019 - present \\
-{\bf Nanjing University of Aeronautics and Astronautics,} Nanjing, China
-\begin{itemize}  \itemsep -2pt  % reduce space between items
-\item College of Economics and Management
-\item Concentrations: Logistics and Supply Chain Management
-\end{itemize}
 
-{\bf M.S.,}  Management Science and Engineering\hfill Apr. 2019 \\
-{\bf Nanjing University of Aeronautics and Astronautics,} Nanjing, China
+{\bf Ph.D. Candidate,}  Management Science and Engineering \hfill Apr. 2019 - present\\
+{\bf Nanjing University of Aeronautics and Astronautics} \hfill Nanjing, China
 \begin{itemize}  \itemsep -2pt  % reduce space between items
-\item College of Economics and Management
-\item Concentrations: Disaster Operations Management
-\item Thesis: {\it Models and Algorithms for Post Disaster Rescue Route Optimization}
-\end{itemize}
-
-{\bf B.S.,}  Industrial Engineering\hfill Jul. 2015 \\
-{\bf Henan Polytechnic University,} Jiaozuo, China
-\begin{itemize}
-\item School of Energy Science and Engineering
-\end{itemize}
+\item[\(\circ\)] Advisor: Prof. Jianjun Zhu
+\item[\(\circ\)] College of Economics and Management
+\item[\(\circ\)] Concentrations: Disaster and Emergency Operations Management
+\end{itemize} \vspace{-.5em}
 
 {\bf Visiting Student,} Industrial Engineering \hfill Sep. 2019 - Dec. 2019\\
-{\bf Texas State University,} San Marcos, U.S.
-\begin{itemize}
-\item UTIL Lab at Ingram School of Engineering
+{\bf Texas State University} \hfill San Marcos, U.S.
+\begin{itemize}   \itemsep -2pt  % reduce space between items
+\item[\(\circ\)] Advisor: Dr. Zhijie (Sasha) Dong
+\item[\(\circ\)] UTIL Lab at Ingram School of Engineering (https://dong.wp.txstate.edu/)
+\item[\(\circ\)] Research project: {\it A stochastic optimization approach for prepositioning relief supplies considering lateral transshipment\(^{[3]}\)} . 
+\item[\(\circ\)] Funded by Nanjing University of Aeronautics and Astronautics.
+\end{itemize}\vspace{-.5em}
+
+{\bf M.S.,}  Management Science and Engineering \hfill Sep. 2016 - Apr. 2019 \\
+{\bf Nanjing University of Aeronautics and Astronautics} \hfill Nanjing, China
+\begin{itemize}  \itemsep -2pt  % reduce space between items
+\item[\(\circ\)] Advisor: Prof. Jianjun Zhu
+\item[\(\circ\)] College of Economics and Management
+\item[\(\circ\)] Dissertation: {\it Models and Algorithms for Post Disaster Rescue Route Optimization}
+\end{itemize}\vspace{-.5em}
+
+{\bf B.S.,}  Industrial Engineering \hfill Sep. 2011 - Jul. 2015 \\
+{\bf Henan Polytechnic University} \hfill Jiaozuo, China
+\begin{itemize}   \itemsep -2pt  % reduce space between items
+\item[\(\circ\)] School of Energy Science and Engineering
+\item[\(\circ\)] Dissertation: {\it Analysis and Optimization of the Production Organization Process of a Beverage Manufacturer}
 \end{itemize}
+
+
+
 
 
 \section{\sc Research \\Interests}
-Logistics and Supply Chain Management, 
-Disaster Operations Management, 
-Optimization Modeling and Algorithms.
+
+$\bullet$ {\bf Disaster and Emergency Operations Management:} mathematical modeling in disasters and public emergencies operations management incorporating the uncertainty. \\
+$\bullet$ {\bf Optimization Modeling and Algorithms:} especially stochastic optimization and integer optimization. \\
+$\bullet$ {\bf Data-driven modeling in the public-health emergency.}
+
+
+
+
+
+\section{\sc Skills}
+
+50k+ lines of code in {\bf Python} (including the package {\it gurobipy} for interacting with {\bf Gurobi}, {\it Pyomo} for optimization modeling, {\bf Matplotlib} for scientific visualization, and {\it Django} for web development). 
+Solid knowledge of modeling and algorithms for deterministic integer programming and {\bf stochastic programming}. 
+Working proficiency in typesetting by \LaTeX. Native in Chinese Mandarin.
+
+
+
 
 
 \section{\sc Research Experience}
-Project Supported by Foundation of Graduate Innovation Center in NUAA \hfill 2017
+
+\textbf{{Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem}} \hspace{68pt} Jun. 2017 - Nov. 2018
 \begin{itemize} \itemsep -2pt  % reduce space between items
-\item Name of the Project: {\it Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem}
+\item[\(\circ\)] Project supported by {\it Foundation of Graduate Innovation Center in Nanjing University of Aeronautics and Astronautics}.
 \end{itemize}
+
+
 
 
 \section{\sc Publications}
-[1] \textbf{Guo,P.,} Zhu,J.*, Wang,H.(2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. \textit{Systems Engineering - Theory \& Practice,} 39(9),2345-2360. (Chinese journal)
 
-[2] \textbf{Guo,P.,} Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. \textit{Systems Engineering,} 36(6),62-70. (Chinese journal) \\
-\textit{(* represents the corresponding author)}
+[3] \textbf{Guo,P.,} Dong,Z.S.*, Zhu,J., Hu,S.(working paper). The Nested Logic-based Benders Decomposition for Stochastic Disaster Response Planning with Inter-facility Coordination.
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(\circ\)] Methodology: two-stage stochastic programming, vehicle routing problem, (nested) logic-based Benders decomposition.
+\end{itemize} \vspace{-.5em}
+
+[2] \textbf{Guo,P.,} Zhu,J.*, Wang,H.(2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. \textit{Systems Engineering - Theory \& Practice,} 39(9),2345-2360. (Chinese journal)
+
+[1] \textbf{Guo,P.,} Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. \textit{Systems Engineering,} 36(6),62-70. (Chinese journal) 
+
+% \textit{(* represents the corresponding author)}
+
+
+
 
 
 \section{\sc Honors \\and Awards}
-$\bullet$ 2nd Price of the 2nd National Innovation Copetition of Industrial Engineering\\ and Lean Management \hfill May 2019 
+
+$\bullet$ {\bf 2\(^{nd}\) Price}, the 2\(^{nd}\) National Innovation Competition of Industrial Engineering and Lean Management ({\bf top 3\%} of participants) \hfill May 2019 
 \begin{itemize}  \itemsep -2pt  % reduce space between items
-\item Name of the Project: \textit{Models and Algorithms for Emergency Rescue \\Location-Routing Optimization with Stochastic Demand}
+\item[\(\circ\)] Name of the Project: \textit{Models and Algorithms for Emergency Rescue Location-Routing Optimization with Stochastic Demand}
 \end{itemize} \vspace{-1em}
-$\bullet$ Outstanding Postgraduate Student of Nanjing University of Aeronautics \\and Astronautics \hfill Jul. 2019\\
-$\bullet$ 3rd Price of the 15th China Post-Graduate Mathematical Contest \\in Modeling \hfill Dec. 2018\\
-$\bullet$ National Scholarship for Graduate Students by Ministry of Education \\of the P.R.C \hfill Oct. 2018\\
-$\bullet$ 3rd Price of the 2018 NUAA Post-Graduate Mathematical Contest \\in Modeling \hfill Jun. 2018\\
-$\bullet$ 3rd Price of the 14th China Post-Graduate Mathematical Contest \\in Modeling \hfill Dec. 2017
+
+$\bullet$ {\bf Outstanding Postgraduate Student} of Nanjing University of Aeronautics and Astronautics (top 20\% of postgraduate student) \hfill Jul. 2019 \\
+$\bullet$ {\bf 3\(^{rd}\) Price}, the 15\(^{th}\) China Post-Graduate Mathematical Contest in Modeling (top 30\% of participants) \hfill Dec. 2018 \\
+$\bullet$ {\bf National Scholarship} for Graduate Students by Ministry of Education of the P.R.C ({\bf top 0.5\%} of graduate student) \hfill Oct. 2018 \\
+$\bullet$ {\bf 3\(^{rd}\) Price}, the 2018 NUAA Post-Graduate Mathematical Contest in Modeling (top 30\% of participants) \hfill Jun. 2018 \\
+$\bullet$ {\bf 3\(^{rd}\) Price}, the 14\(^{th}\) China Post-Graduate Mathematical Contest in Modeling (top 30\% of participants) \hfill Dec. 2017
 
 
-\section{\sc Open Source Projects} 
-\textit{VRP2E } https://github.com/phguo/VRP2E \hfill Jan. 2018
+
+
+
+\section{\sc Open Source Activities} 
+
+\textbf{{VRP2E }} https://github.com/phguo/VRP2E \hfill Jan. 2018
 \begin{itemize} \itemsep -2pt
-\item A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+\item[\(\circ\)] A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+\end{itemize} \vspace{-.5em}
+\textbf{{LRP2E-instances }} https://github.com/phguo/LRP2E-instances \hfill Jan. 2018
+\begin{itemize} \itemsep -2pt
+\item[\(\circ\)] Instances data for 2-echelon vehicle routing problem (VRP2E) with resource constraints. 
 \end{itemize}
 
 
+
+
+
+\section{\sc Referees}
+
+\textbf{Prof. Jianjun Zhu}, Email: zhujianjun@nuaa.edu.cn
+\begin{itemize} \itemsep -2pt
+\item[\(\circ\)] My M.S. and Ph.D. advisor.
+\end{itemize} \vspace{-1em}
+\textbf{Dr. Zhijie (Sasha) Dong}, Email: sasha.dong@txstate.edu
+\begin{itemize} \itemsep -2pt
+\item[\(\circ\)] Advisor during my visiting Texas State University.
+\end{itemize}
+
 \end{resume} 
 \end{document} 
-
-
-
