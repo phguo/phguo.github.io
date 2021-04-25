@@ -26,7 +26,7 @@ __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
 - Concentrations: Disaster Operations Management<br>
-- Thesis: [_Models and Algorithms for Post Disaster Rescue Route Optimization_](https://doi.org/10.27239/d.cnki.gnhhu.2019.001191)
+- Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_ (full text: [CNKI](https://doi.org/10.27239/d.cnki.gnhhu.2019.001191),[self-hosted](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-MasterThesis.pdf))
 
 __B.S.__, Industrial Engineering, Jul. 2015
 - __Henan Polytechnic University__, Jiaozuo, China
@@ -45,9 +45,9 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
-[1] __Guo,P.__, Zhu,J.*, Wang,H.(2019). [Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue](https://doi.org/10.12011/1000-6788-2018-0108-16). _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal)
+[1] __Guo,P.__, Zhu,J.*, Wang,H.(2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal, full text: [CNKI](https://doi.org/10.12011/1000-6788-2018-0108-16), [self-hosted](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-LocationRoutingAllocation.pdf))
 
-[2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). [Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm). _Systems Engineering_, 36(6),62-70. (Chinese journal)
+[2] __Guo,P.__, Zhu,J.*, Wang,H.(2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6),62-70. (Chinese journal, full text: [CNKI](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm), [self-hosted](https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-RiskTime.pdf))
 
 _(* represents the corresponding author)_
 
