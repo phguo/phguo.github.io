@@ -1,0 +1,263 @@
+% !TEX program = xelatex
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass[margin]{res} 
+% the margin option causes section titles to appear to the left of body text 
+% \topmargin=-.4in
+% \oddsidemargin -.5in
+% \evensidemargin -.5in
+% \textwidth=6.0in
+% \itemsep=-0.9in
+% \parsep=-0.9in
+
+% \usepackage[margin=.9in]{geometry}
+% \geometry{a4paper,scale=1}
+% \geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=1cm}
+
+\textwidth=5.2in % increase textwidth to get smaller right margin
+% \usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+% \usepackage{newcent}   % uses new century schoolbook postscript font
+% \usepackage{mweights} % uses EB garamond font
+% \renewcommand{\sfdefault}{lmr}
+
+
+% Palatino font 
+% \usepackage{mathpazo}
+% \usepackage{microtype}
+
+% Chinese
+\usepackage{fontspec} 
+\usepackage[slantfont, boldfont]{xeCJK}
+\setCJKmainfont{STSongti-SC-Light}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=NavyBlue,
+    filecolor=NavyBlue,
+    urlcolor=NavyBlue,
+    citecolor=NavyBlue,
+}
+
+\usepackage{fancyhdr}
+\pagestyle{plain}
+
+
+\begin{document} 
+
+
+\name{郭鹏辉 ·  Penghui Guo\\[5pt]} % the \\[12pt] adds a blank line after name
+\address{\\ [5pt]
+Nanjing University of Aeronautics and Astronautics (NUAA) \\
+29 Jiangjun Avenue  \\
+Nanjing Jiangsu, 211106 China}
+\address{\small \it
+\hfill Updated: \today \\ [5pt]
+Email: \hfill m@guo.ph \\
+Homepage: \hfill \href{https://guo.ph}{https://guo.ph} \\[5pt]
+}
+
+
+\begin{resume} 
+
+
+\vspace{-.8em}
+\section{\sc Education}
+
+
+{\bf Ph.D. Candidate,}  Management Science and Engineering \hfill {\it Apr. 2019 - present}\\
+{\bf Nanjing University of Aeronautics and Astronautics} \hfill Nanjing, China
+\begin{itemize}  \itemsep -2pt  % reduce space between items
+\item[\(-\)] Advisor: Prof. Jianjun Zhu
+\item[\(-\)] College of Economics and Management
+\item[\(-\)] Concentrations: Disaster and Humanitarian Operations Management
+\end{itemize}
+\vspace{-.8em}
+
+
+{\bf Visiting Student,} Industrial Engineering \hfill {\it Sep. 2019 - Dec. 2019}\\
+{\bf Texas State University} \hfill San Marcos, U.S.
+\begin{itemize}   \itemsep -2pt  % reduce space between items
+\item[\(-\)] Advisor: Dr. Zhijie Sasha Dong
+\item[\(-\)] UTIL Lab at Ingram School of Engineering
+\item[\(-\)] Research project: A Stochastic Optimization Approach for Prepositioning Relief Supplies Considering Lateral Transshipment\(^{[3]}\)
+\item[\(-\)] Funded by NUAA
+\end{itemize}
+\vspace{-.8em}
+
+{\bf M.S.,}  Management Science and Engineering \hfill {\it Sep. 2016 - Apr. 2019}\\
+{\bf Nanjing University of Aeronautics and Astronautics} \hfill Nanjing, China
+\begin{itemize}  \itemsep -2pt  % reduce space between items
+\item[\(-\)] Advisor: Prof. Jianjun Zhu
+\item[\(-\)] College of Economics and Management
+\item[\(-\)] Dissertation: Models and Algorithms for Post Disaster Rescue Route Optimization. (\href{https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-MasterThesis.pdf}{full text})
+\end{itemize}
+\vspace{-.8em}
+
+{\bf B.S.,}  Industrial Engineering \hfill {\it Sep. 2011 - Jul. 2015} \\
+{\bf Henan Polytechnic University} \hfill Jiaozuo, China
+\begin{itemize}   \itemsep -2pt  % reduce space between items
+\item[\(-\)] School of Energy Science and Engineering
+% \item[\(-\)] Dissertation: {\it Analysis and Optimization of the Production Organization Process of a Beverage Manufacturer}
+\end{itemize}
+
+
+\vspace{-.8em}
+\section{\sc Research \\Interests}
+
+
+$\diamond$ {\bf Disaster and Humanitarian Operations Management:} The location, routing, and allocation problem for humanitarian planning and response. \\
+$\diamond$ {\bf Optimization Modeling and Algorithms:} Stochastic programming, mixed-integer programming, and decomposition algorithms. Development for optimization packages.
+
+
+\vspace{-.8em}
+\section{\sc Skills}
+
+
+Solid knowledge of modeling and algorithms for optimization problems. 
+50k+ lines of \texttt{Python} code (including \texttt{gurobipy} for \texttt{Gurobi}, \texttt{Pyomo} for optimization modeling, \texttt{Matplotlib} for visualization, and \texttt{Django} for web development). 
+Beginner of \texttt{Julia}.
+Working proficiency in typesetting by \LaTeX. Native in Chinese Mandarin.
+
+
+\vspace{-.8em}
+\section{\sc Research \\Papers}
+
+
+[4] \textbf{Guo,P.,} Zhu,J.* (working paper). Capacity Reservation for Humanitarian Relief: a Logic-based Benders Decomposition Method with Subgradient Cut.
+\vspace{-.8em}
+
+[3] \textbf{Guo,P.,} Dong,Z.S.*, Zhu,J. (working paper). Nested Logic-based Benders Decomposition for Disaster Preparedness Planning with Horizontal Coordination.
+\vspace{-.8em}
+
+[2] \textbf{Guo,P.,} Zhu,J.*, Wang,H. (2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. \textit{Systems Engineering - Theory \& Practice,} 39(9),2345-2360. (in Chinese, \href{https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-LocationRoutingAllocation.pdf}{full text})
+\vspace{-.8em}
+
+[1] \textbf{Guo,P.,} Zhu,J.*, Wang,H. (2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. \textit{Systems Engineering,} 36(6),62-70. (in Chinese, \href{https://docs.google.com/viewer?url=https://github.com/phguo/phguo.github.io/raw/master/full_text/zh-RiskTime.pdf}{full text})
+
+\vspace{-.8em}
+\section{\sc Research Experience}
+
+
+{\sc Academic}
+\vspace{-.8em}
+
+\textbf{{Integrated Optimization for Large-scale Natural Disaster Emergency Rescue Location-Routing-Allocation Problem}} \hspace{65pt} {\it Jun. 2017 - Nov. 2018}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] Project supported by {Foundation of Graduate Innovation Center in NUAA}.
+\end{itemize}
+
+
+\vspace{-.8em}
+\section{\sc Scholarships, \\Honors, \\and Awards}
+
+
+{Joint Ph.D. scholarship} (NO. 202106830115) \hfill {\it Jul. 2021}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] Supported by the China Scholarship Council (CSC) for 12 months.
+\end{itemize}
+\vspace{-.8em}
+
+{Short-term visiting Ph.D. scholarship} \hfill {\it Jun. 2019}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] Supported by NUAA for three months.
+\end{itemize}
+\vspace{-.8em}
+
+{2\(^{nd}\) Price} (top 3\% of participants)   \hfill {\it May 2019}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] The 2\(^{nd}\) National Innovation Competition of Industrial Engineering and Lean Management.
+\item[\(-\)] Name of the Project: {Models and Algorithms for Emergency Rescue Location-Routing Optimization with Stochastic Demand}
+\end{itemize}
+\vspace{-.8em}
+
+{Outstanding Postgraduate Student} (top 20\% of postgraduate student) \hfill {\it Apr. 2019}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] By NUAA graduate school.
+\end{itemize}
+\vspace{-.8em}
+
+{3\(^{rd}\) Price} (top 30\% of participants)   \hfill {\it Dec. 2018}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] The 15\(^{th}\) China Post-Graduate Mathematical Contest in Modeling.
+\end{itemize}
+\vspace{-.8em}
+
+{\bf National Scholarship} (top 0.5\% of graduate student) \hfill {\it Oct. 2018}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] By Ministry of Education of the People's Republic of China.
+\end{itemize}
+\vspace{-.8em}
+
+{3\(^{rd}\) Price} (top 30\% of participants)  \hfill {\it Jun. 2018} 
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] The 2018 NUAA Post-Graduate Mathematical Contest in Modeling.
+\end{itemize}
+\vspace{-.8em}
+
+% $\diamond$ 
+{3\(^{rd}\) Price} (top 30\% of participants)  \hfill {\it Dec. 2017}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item[\(-\)] The 14\(^{th}\) China Post-Graduate Mathematical Contest in Modeling.
+\end{itemize}
+
+
+\vspace{-.8em}
+\section{\sc Open Source Activities} 
+
+
+\textbf{Benders.jl } https://github.com/phguo/Benders.jl \hfill {\it May 2022 - present}
+\begin{itemize} \itemsep -2pt
+\item[\(-\)] A Julia package for Benders decomposition and its variants (now support the classical Benders).
+\end{itemize}
+\vspace{-.8em}
+
+\textbf{BendersLib } https://pypi.org/project/BendersLib \hfill {\it Jun. 2021 - present}
+\begin{itemize} \itemsep -2pt
+\item[\(-\)] A Python library for Benders decomposition (under development).
+\end{itemize}
+\vspace{-.8em}
+
+\textbf{VRP2E } https://github.com/phguo/VRP2E \hfill {\it Jan. 2018}
+\begin{itemize} \itemsep -2pt
+\item[\(-\)] A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
+\end{itemize}
+\vspace{-.8em}
+
+
+\textbf{arxiv-latex-cleaner } https://pypi.org/project/arxiv-latex-cleaner \hfill {\it Jan. 2022}
+\begin{itemize} \itemsep -2pt
+\item[\(-\)] Contributor.
+\item[\(-\)] A 3k+ stars tool that cleans the LaTeX code for submitting to arXiv.
+\end{itemize}
+
+
+\vspace{-.8em}
+\section{\sc Membership}
+
+
+\textbf{INFORMS Student Member} (ID: 1606090) \hfill {\it Apr. 2021 - present}
+\begin{itemize}  \itemsep -2pt
+\item[\(-\)] The Institute for Operations Research and the Management Sciences (INFORMS)
+\end{itemize} \vspace{-.8em}
+\textbf{ORSC Student Member} (ID: S390022695M) \hfill {\it Oct. 2021 - present}
+\begin{itemize}  \itemsep -2pt
+\item[\(-\)] The Operations Research Society of China (ORSC)
+\end{itemize} \vspace{-.8em}
+\textbf{SESC Member} \hfill {\it Oct. 2021 - present}
+\begin{itemize}  \itemsep -2pt
+\item[\(-\)] The System Engineering Society of China (SESC)
+\end{itemize} \vspace{-.8em}
+\textbf{SCOPE  Student Member} (ID: S320005073A) \hfill {\it Oct. 2021 - present}
+\begin{itemize}  \itemsep -2pt
+\item[\(-\)] Chinese Society of Optimization, Overall Planning and Economic Mathematics (SCOPE)
+\end{itemize}
+
+
+
+\end{resume} 
+\end{document} 
