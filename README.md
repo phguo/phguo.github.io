@@ -61,7 +61,8 @@ _(* represents the corresponding author)_
 - VRP2E https://github.com/phguo/VRP2E, Jan. 2018
   - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
 - arxiv-latex-cleaner (contributor), https://github.com/google-research/arxiv-latex-cleaner, Jan. 2022
-- A 3k+ stars tool that cleans the LaTeX code for submitting to arXiv. 
+  - A 3k+ stars tool that cleans the LaTeX code for submitting to arXiv. 
+
 
 ## Scholarships, Honors, and Awards
 
