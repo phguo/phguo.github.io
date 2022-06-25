@@ -1,0 +1,12 @@
+<script type="text/javascript"> 
+    var t = 5;//设定跳转的时间 
+    setInterval("refer()", 1000); 
+    function refer() {
+        if (t == 0){
+            location = "https://benders.dev";
+        }
+        document.getElementById('show').innerHTML = "You are going to be redirected to <a href='https://benders.dev'>https://benders.dev</a> in " + t + " seconds..."; // 显示倒计时 
+        t--;
+    } 
+</script>
+<span id="show"></span>
