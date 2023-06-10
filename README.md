@@ -44,7 +44,7 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
-[3] __Guo, P.__, & Zhu, J.*. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. *European Journal of Operational Research*. https://doi.org/10.1016/j.ejor.2023.06.006. (full text: [PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf))
+[3] __Guo, P.__, & Zhu, J.*. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. _European Journal of Operational Research_. https://doi.org/10.1016/j.ejor.2023.06.006. (full text: [PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf))
 
 [2] __Guo, P.__, Zhu, J.*, & Wang, H. (2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal, full text: [CNKI](https://doi.org/10.12011/1000-6788-2018-0108-16), [PREPRINT](https://guo.ph/publication/zh-LocationRoutingAllocation.pdf))
 
