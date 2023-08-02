@@ -1,4 +1,4 @@
-# 郭鹏辉 · Penghui Guo
+# Penghui Guo（郭鹏辉）
 
 南京航空航天大学 经济与管理学院<br>
 College of Economics and Management<br>
@@ -7,7 +7,7 @@ Nanjing University of Aeronautics and Astronautics <br>
 Nanjing Jiangsu, 211106 China<br>
 Email: m@guo.ph<br>
 
-Updated: 2023-06-11
+Updated: 2023-08-02
 
 [My CV](https://guo.ph/Penghui_Guo_CV.pdf)  / [Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.2em;" alt="ORCID iD icon">ORCiD](https://orcid.org/0000-0003-3435-6761)
 
@@ -44,11 +44,11 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
-[3] __Guo, P.__, & Zhu, J.*. (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. _European Journal of Operational Research_. https://doi.org/10.1016/j.ejor.2023.06.006. (full text: [PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf))
+[3] __Guo, P.__, & Zhu, J.* (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. _European Journal of Operational Research_, 311(3), 942–970. https://doi.org/10.1016/j.ejor.2023.06.006 (full text: [PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf))
 
-[2] __Guo, P.__, Zhu, J.*, & Wang, H. (2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. _Systems Engineering - Theory & Practice_, 39(9),2345-2360. (Chinese journal, full text: [CNKI](https://doi.org/10.12011/1000-6788-2018-0108-16), [PREPRINT](https://guo.ph/publication/zh-LocationRoutingAllocation.pdf))
+[2] __Guo, P.__, Zhu, J.*, & Wang, H. (2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. _Systems Engineering - Theory & Practice_, 39(9), 2345-2360. (in Chinese, full text: [CNKI](https://doi.org/10.12011/1000-6788-2018-0108-16), [PREPRINT](https://guo.ph/publication/zh-LocationRoutingAllocation.pdf))
 
-[1] __Guo, P.__, Zhu, J.*, & Wang, H. (2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6),62-70. (Chinese journal, full text: [CNKI](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm), [PREPRINT](https://guo.ph/publication/zh-RiskTime.pdf))
+[1] __Guo, P.__, Zhu, J.*, & Wang, H. (2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6), 62-70. (in Chinese, full text: [CNKI](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm), [PREPRINT](https://guo.ph/publication/zh-RiskTime.pdf))
 
 _(* represents the corresponding author)_
 
