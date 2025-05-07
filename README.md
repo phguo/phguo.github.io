@@ -13,14 +13,14 @@ Updated: 2024-04-24
 
 ## Profile
 
-Penghui Guo ("郭鹏辉" in Chinese) is a PhD student at the College of Economics and Management, Nanjing University of Aeronautics and Astronautics (NUAA), China. He earned his master's degree in management science and engineering (industrial engineering) from NUAA, and his bachelor's degree in industrial engineering from Henan Polytechnic University, China. His main research focus is on humanitarian logistics, specifically the modeling methods and algorithms under uncertainty for humanitarian relief. He has published several papers in peer-reviewed journals including the _European Journal of Operational Research_, _Systems Engineering - Theory & Practice_ (_"系统工程理论与实践"_ in Chinese), and _Systems Engineering_ (_"系统工程"_ in Chinese). His website is [https://guo.ph](https://guo.ph).
+Penghui Guo ("郭鹏辉" in Chinese) is a PhD student at the College of Economics and Management, Nanjing University of Aeronautics and Astronautics (NUAA), China. He earned his master's degree in management science and engineering (industrial engineering) from NUAA, and his bachelor's degree in industrial engineering from Henan Polytechnic University, China. His main research focus is on humanitarian logistics, specifically the modeling methods and algorithms under uncertainty for humanitarian relief. He has published several papers in peer-reviewed journals including _IISE Transactions_, _European Journal of Operational Research_, _Systems Engineering - Theory & Practice_ (_"系统工程理论与实践"_ in Chinese), and _Systems Engineering_ (_"系统工程"_ in Chinese). His website is [https://guo.ph](https://guo.ph).
 
 ## Education
 
-__Ph.D. Candidate__, Management Science and Engineering, Apr. 2019 - present
+__Ph.D.__, Management Science and Engineering, Apr. 2019 - Oct. 2024
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
-- Concentrations: Disaster and Emergency Operations Management
+- Thesis: _Optimal Preparation and Distribution of Humanitarian Supplies by Stochastic Programming and Decomposition Algorithms_
 
 __Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
 - __Texas State University__, San Marcos, U.S.
@@ -29,7 +29,6 @@ __Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
 __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
-- Concentrations: Disaster Operations Management<br>
 - Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_ (full text: [CNKI](https://doi.org/10.27239/d.cnki.gnhhu.2019.001191),[PREPRINT](https://guo.ph/publication/zh-MasterThesis.pdf))
 
 __B.S.__, Industrial Engineering, Jul. 2015
@@ -48,13 +47,15 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
+[4] __Guo, P.__, Dong, Z. S.*, & Zhu, J. (2025). Nested logic-based Benders decomposition for disaster preparedness planning with horizontal coordination. _IISE Transactions_. [https://doi.org/10.1080/24725854.2025.2491495](https://doi.org/10.1080/24725854.2025.2491495) ([PREPEINT](https://guo.ph/publication/LateralTransshipment2025.pdf); [DATA](https://github.com/phguo/hor-coo-repo))
+
 [3] __Guo, P.__, & Zhu, J.* (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. _European Journal of Operational Research_, 311(3), 942–970. [https://doi.org/10.1016/j.ejor.2023.06.006](https://doi.org/10.1016/j.ejor.2023.06.006) ([PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf); [DATA](https://github.com/phguo/cap-res-data))
 
 [2] __Guo, P.__, Zhu, J.*, & Wang, H. (2019). Location-routing-allocation Problem with Consolidated Shipping of Heterogeneous Relief Supplies in Post-disaster Rescue. _Systems Engineering - Theory & Practice_, 39(9), 2345-2360. [https://doi.org/10.12011/1000-6788-2018-0108-16](https://doi.org/10.12011/1000-6788-2018-0108-16) (in Chinese, [PREPRINT](https://guo.ph/publication/zh-LocationRoutingAllocation.pdf))
 
 [1] __Guo, P.__, Zhu, J.*, & Wang, H. (2018). Multi-location Emergency Rescue Route Optimization under the Condition of Natural Disaster Considering Safety and Time Cost. _Systems Engineering_, 36(6), 62-70. [http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm](http://www.cnki.com.cn/Article/CJFDTotal-GCXT201806007.htm) (in Chinese, [PREPRINT](https://guo.ph/publication/zh-RiskTime.pdf))
 
-_(* represents the corresponding author)_
+_(* corresponding author)_
 
 ## Open Source Projects
 
