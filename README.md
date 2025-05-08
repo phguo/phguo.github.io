@@ -17,7 +17,7 @@ Penghui Guo ("郭鹏辉" in Chinese) is a PhD student at the College of Economic
 
 ## Education
 
-__Ph.D.__, Management Science and Engineering, Apr. 2019 - Oct. 2024
+__Ph.D.__, Management Science and Engineering, Oct. 2024
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
 - Thesis: _Optimal Preparation and Distribution of Humanitarian Supplies by Stochastic Programming and Decomposition Algorithms_
