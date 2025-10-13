@@ -47,6 +47,8 @@ __B.S.__, Industrial Engineering, Jul. 2015
 
 ## Publications
 
+[5] __Guo, P.__, & Zhu, J.* (2025). Coordinating international humanitarian inventory by Stochastic Dual Dynamic Programming. _Naval Research Logistics_. [https://doi.org/10.1002/nav.70030](https://doi.org/10.1002/nav.70030) (forthcoming)
+
 [4] __Guo, P.__, Dong, Z. S.*, & Zhu, J. (2025). Nested logic-based Benders decomposition for disaster preparedness planning with horizontal coordination. _IISE Transactions_. [https://doi.org/10.1080/24725854.2025.2491495](https://doi.org/10.1080/24725854.2025.2491495) ([PREPRINT](https://guo.ph/publication/LateralTransshipment2025.pdf); [DATA](https://github.com/phguo/hor-coo-repo))
 
 [3] __Guo, P.__, & Zhu, J.* (2023). Capacity reservation for humanitarian relief: A logic-based Benders decomposition method with subgradient cut. _European Journal of Operational Research_, 311(3), 942–970. [https://doi.org/10.1016/j.ejor.2023.06.006](https://doi.org/10.1016/j.ejor.2023.06.006) ([PREPRINT](https://guo.ph/publication/CapacityReservationHumanitarian2023.pdf); [DATA](https://github.com/phguo/cap-res-data))
