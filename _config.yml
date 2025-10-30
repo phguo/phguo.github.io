@@ -1,6 +1,7 @@
 remote_theme: LinuxSuRen/minimal@v0.0.1
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-redirect-from
 # theme: jekyll-theme-minimal
 title: guo.ph
 logo: photo.jpeg
