@@ -15,7 +15,7 @@ scholar:
   details_dir:    pub
   details_layout: bib.html
   details_link:   "[Details & Abstract]"
-  bibliography:   pub/papers.bib
+  bibliography:   _bib/papers.bib
   use_raw_bibtex_entry_as_source: true
 # theme: jekyll-theme-minimal
 title: guo.ph
