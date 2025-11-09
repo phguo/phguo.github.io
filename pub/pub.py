@@ -147,7 +147,7 @@ def generate_html_from_bib():
         
         publication_blocks += f"""    <p class="citation">
         {apa_citation_html}
-        <a href="./pub/{entry_id}.pdf" target="_blank" class="pdf-link">[PDF]</a>
+        <a href="./{entry_id}.pdf" target="_blank" class="pdf-link">[PDF]</a>
     </p>\n"""
 
     html_body_end = """</body>
