@@ -9,7 +9,7 @@ Email: m@guo.ph<br>
 
 _Updated: 2025-10-25_
 
-[Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.2em;" alt="ORCID iD icon">ORCiD](https://orcid.org/0000-0003-3435-6761)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width:.8em;margin-right:.2em;" alt="Google Scholar icon">Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.8em;margin-right:.2em;" alt="ORCID iD icon">ORCiD](https://orcid.org/0000-0003-3435-6761)
 
 ## Profile
 
