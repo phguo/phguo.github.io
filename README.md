@@ -67,13 +67,13 @@ _(* corresponding author)_
 
 ## Open Source Projects
 
-- BendersLib https://benders.dev, Jun. 2021 - present
+- BendersLib [https://benders.dev](https://benders.dev), Jun. 2021 - present
   - A Benders Decomposition Library in Python.
-- Benders.jl https://github.com/phguo/Benders.jl, May 2022 - present
+- Benders.jl [https://github.com/phguo/Benders.jl](https://github.com/phguo/Benders.jl), May 2022 - present
   - A Benders Decomposition Library in Julia (under development).
-- VRP2E https://github.com/phguo/VRP2E, Jan. 2018
+- VRP2E [https://github.com/phguo/VRP2E](https://github.com/phguo/VRP2E), Jan. 2018
   - A coevolutionary-algorithm solver for multi-objective two-echelon vehicle routing problems.
-- arxiv-latex-cleaner (contributor), https://github.com/google-research/arxiv-latex-cleaner, Jan. 2022
+- arxiv-latex-cleaner (contributor), [https://github.com/google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner), Jan. 2022
   - A 3k+ stars tool that cleans the LaTeX code for submitting to arXiv. 
 
 ## Scholarships, Honors, and Awards
