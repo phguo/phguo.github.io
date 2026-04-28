@@ -1,13 +1,8 @@
 # Penghui Guo（郭鹏辉）
 
-南京航空航天大学 经济与管理学院<br>
-College of Economics and Management<br>
-Nanjing University of Aeronautics and Astronautics <br>
-29 Jiangjun Avenue<br>
-Nanjing Jiangsu, 211106 China<br>
 Email: m@guo.ph<br>
 
-_Updated: 2026-04-23_
+_Updated: 2026-04-28_
 
 [Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [ORCiD](https://orcid.org/0000-0003-3435-6761)
 
