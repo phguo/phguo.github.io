@@ -21,18 +21,18 @@ Penghui Guo ("郭鹏辉" in Chinese) earned his PhD in management science and en
 __Ph.D.__, Management Science and Engineering, Oct. 2024
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
-- Advisor: [Prof. Jianjun Zhu (朱建军)](https://faculty.nuaa.edu.cn/zjj)
+- Advisor: [Prof. Jianjun Zhu](https://faculty.nuaa.edu.cn/zjj)
 - Thesis: _Optimal Preparation and Distribution of Humanitarian Supplies by Stochastic Programming and Decomposition Algorithms_
 
 __Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
 - __Texas State University__, San Marcos, U.S.
 - UTIL Lab at Ingram School of Engineering
-- Advisor: [Prof. Zhijie Sasha Dong (董智捷)](https://tc.seu.edu.cn/dzj/main.psp)
+- Advisor: [Prof. Zhijie Sasha Dong](https://tc.seu.edu.cn/dzj/main.psp)
 
 __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
-- Advisor: [Prof. Jianjun Zhu (朱建军)](https://faculty.nuaa.edu.cn/zjj)
+- Advisor: [Prof. Jianjun Zhu](https://faculty.nuaa.edu.cn/zjj)
 - Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_
 
 __B.S.__, Industrial Engineering, Jul. 2015
