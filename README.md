@@ -4,11 +4,11 @@ Email: m@guo.ph<br>
 
 _Updated: 2026-04-28_
 
-[Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [ORCiD](https://orcid.org/0000-0003-3435-6761)
+[Google Scholar](https://scholar.google.com/citations?user=RDLsl7AAAAAJ) / [ORCiD](https://orcid.org/0000-0003-3435-6761) / [GitHub](https://github.com/phguo)
 
 ## Profile
 
-Penghui Guo ("郭鹏辉" in Chinese) earned his PhD in management science and engineering from College of Economics and Management, Nanjing University of Aeronautics and Astronautics (NUAA), China. He earned his master's degree in management science and engineering (industrial engineering) from NUAA, and his bachelor's degree in industrial engineering from Henan Polytechnic University, China. His main research focus is on humanitarian logistics, specifically the modeling methods and algorithms under uncertainty for humanitarian relief. He has published several papers in peer-reviewed journals including _Naval Research Logistics_,  _IISE Transactions_, _European Journal of Operational Research_, and _Systems Engineering - Theory & Practice_ (_"系统工程理论与实践"_ in Chinese). His website is [https://guo.ph](https://guo.ph).
+Penghui Guo ("郭鹏辉" in Chinese) earned his PhD in management science and engineering from College of Economics and Management, Nanjing University of Aeronautics and Astronautics (NUAA), China. He earned his master's degree in management science and engineering (industrial engineering) from NUAA, and his bachelor's degree in industrial engineering from Henan Polytechnic University, China. His main research focus is on humanitarian logistics, specifically the modeling methods and algorithms under uncertainty for humanitarian relief. Penghui Guo developed a Python library for Benders decomposition, namely [BendersLib](https://benders.dev). He has published several papers in peer-reviewed journals including _Naval Research Logistics_,  _IISE Transactions_, _European Journal of Operational Research_, and _Systems Engineering - Theory & Practice_ (_"系统工程理论与实践"_ in Chinese). His website is [https://guo.ph](https://guo.ph).
 
 ## News
 
@@ -21,15 +21,18 @@ Penghui Guo ("郭鹏辉" in Chinese) earned his PhD in management science and en
 __Ph.D.__, Management Science and Engineering, Oct. 2024
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
+- Advisor: [Prof. Jianjun Zhu (朱建军)](https://faculty.nuaa.edu.cn/zjj)
 - Thesis: _Optimal Preparation and Distribution of Humanitarian Supplies by Stochastic Programming and Decomposition Algorithms_
 
 __Visiting Student__, Industrial Engineering, Sep. 2019 - Dec. 2019
 - __Texas State University__, San Marcos, U.S.
 - UTIL Lab at Ingram School of Engineering
+- Advisor: [Prof. Zhijie Sasha Dong (董智捷)](https://tc.seu.edu.cn/dzj/main.psp)
 
 __M.S.__, Management Science and Engineering, Apr. 2019
 - __Nanjing University of Aeronautics and Astronautics__, Nanjing, China
 - College of Economics and Management
+- Advisor: [Prof. Jianjun Zhu (朱建军)](https://faculty.nuaa.edu.cn/zjj)
 - Thesis: _Models and Algorithms for Post Disaster Rescue Route Optimization_
 
 __B.S.__, Industrial Engineering, Jul. 2015
