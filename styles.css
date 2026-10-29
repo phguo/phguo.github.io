@@ -1,0 +1,86 @@
+:root {
+  --paper: #fff;
+  --ink: #171717;
+  --muted: #666;
+  --line: #dedede;
+  --accent: #292929;
+  --serif: Iowan Old Style, Palatino Linotype, Book Antiqua, Palatino, Georgia, serif;
+  --sans: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 1rem/1.65 var(--sans);
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--accent); text-decoration-color: color-mix(in srgb, var(--accent), transparent 58%); text-underline-offset: .17em; }
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+
+main, .page-shell { width: min(100% - 3rem, 46rem); margin: 0 auto; padding: 5rem 0 4rem; }
+
+.masthead { display: grid; grid-template-columns: 8em 1fr; gap: 3em; align-items: end; margin-bottom: 3.25rem; }
+.portrait { width: 8em; }
+h1, h2, h3, p { margin-top: 0; }
+h1, h2 { font-family: var(--serif); letter-spacing: -.025em; }
+h1 { font-weight: 500; }
+h1 { font-size: clamp(2rem, 4vw, 2.65rem); line-height: 1; margin-bottom: .45rem; }
+h2 { font-size: 1.4rem; font-weight: 600; line-height: 1.2; margin-bottom: 1rem; }
+h3 { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; font-size: 1rem; font-weight: 400; line-height: 1.45; margin-bottom: .2rem; }
+.identity p { margin-bottom: .25rem; color: var(--muted); }
+.identity .email { margin-top: 1rem; }
+.links { font-size: .92rem; }
+.links span { color: var(--line); padding: 0 .32rem; }
+
+section { border-top: 1px solid var(--line); padding: 2.2rem 0; }
+section > :last-child { margin-bottom: 0; }
+.profile { font-family: var(--serif); font-size: 1.1rem; line-height: 1.7; }
+.updated { color: var(--muted); font-size: .88rem; }
+ul { margin: 0; padding-left: 1.25rem; }
+li { padding-left: .15rem; }
+li + li { margin-top: .65rem; }
+.news { border-left: 3px solid var(--muted); list-style: none; padding-left: 1rem; }
+.news li { display: grid; grid-template-columns: 6rem 1fr; gap: .7rem; padding-left: 0; }
+.news li + li { margin-top: .8rem; }
+.news time { color: var(--muted); font-variant-numeric: tabular-nums; }
+.record + .record { margin-top: 1.3rem; }
+.record p, .publication p, .project p { margin-bottom: 0; }
+.record .detail, .project .detail { color: var(--muted); font-size: .94rem; line-height: 1.62; }
+.date { color: var(--muted); font-size: .88rem; font-weight: 400; font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.publication + .publication { margin-top: 1.3rem; }
+.publication { font-size: .96rem; padding-left: 2rem; text-indent: -2rem; }
+.publication .actions { display: inline; font-size: .9rem; white-space: nowrap; }
+.project + .project { margin-top: 1.15rem; }
+.project > p:first-child { display: flex; justify-content: space-between; gap: 1rem; }
+.project .detail { margin-top: .15rem; }
+.dated-list { list-style: none; padding-left: 0; }
+.dated-list li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; padding-left: 0; }
+.note { color: var(--muted); font-size: .9rem; }
+footer { color: var(--muted); font-size: .86rem; padding-top: .7rem; }
+footer a { color: inherit; }
+
+.publications-page h1 { margin-bottom: 2.75rem; }
+.citation { padding-left: 2rem; text-indent: -2rem; margin-bottom: 1.7rem; }
+.pdf-link { font-size: .9rem; font-weight: 650; white-space: nowrap; }
+.redirect-page { display: grid; min-height: 100vh; place-items: center; padding: 1.5rem; text-align: center; }
+.redirect-page .page-shell { padding: 0; }
+
+@media (max-width: 38rem) {
+  body { font-size: .98rem; }
+  main, .page-shell { width: min(100% - 2.2rem, 47rem); padding-top: 3rem; }
+  .masthead { grid-template-columns: 4.75rem 1fr; gap: 1rem; margin-bottom: 2.8rem; }
+  .portrait { width: 4.75rem; }
+  section { padding: 1.9rem 0; }
+  .news li { grid-template-columns: 1fr; gap: .05rem; }
+  h3 { grid-template-columns: 1fr; gap: .15rem; }
+  .dated-list li { grid-template-columns: 1fr; gap: .15rem; }
+  .date { text-align: left; }
+  .publication, .citation { padding-left: 1.45rem; text-indent: -1.45rem; }
+}
