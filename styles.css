@@ -24,12 +24,13 @@ a { color: var(--accent); text-decoration-color: color-mix(in srgb, var(--accent
 a:hover { text-decoration-color: currentColor; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 
-main, .page-shell { width: min(100% - 3rem, 46rem); margin: 0 auto; padding: 5rem 0 4rem; }
+main, .page-shell { width: min(100% - 3rem, 46rem); margin: 0 auto; padding: 3rem 0 4rem; }
 
 .masthead { display: grid; grid-template-columns: 8em 1fr; gap: 3em; align-items: end; margin-bottom: 3.25rem; }
 .portrait { width: 8em; }
 h1, h2, h3, p { margin-top: 0; }
 h1, h2 { font-family: var(--serif); letter-spacing: -.025em; }
+:lang(zh) { font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif; }
 h1 { font-weight: 500; }
 h1 { font-size: clamp(2rem, 4vw, 2.65rem); line-height: 1; margin-bottom: .45rem; }
 h2 { font-size: 1.4rem; font-weight: 600; line-height: 1.2; margin-bottom: 1rem; }
@@ -63,7 +64,7 @@ li + li { margin-top: .65rem; }
 .dated-list { list-style: none; padding-left: 0; }
 .dated-list li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; padding-left: 0; }
 .note { color: var(--muted); font-size: .9rem; }
-footer { color: var(--muted); font-size: .86rem; padding-top: .7rem; }
+footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .86rem; padding-top: .7rem; text-align: center; }
 footer a { color: inherit; }
 
 .publications-page h1 { margin-bottom: 2.75rem; }
