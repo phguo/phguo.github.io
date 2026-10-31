@@ -54,8 +54,8 @@ li + li { margin-top: .65rem; }
 .record .detail, .project .detail { color: var(--muted); font-size: .94rem; line-height: 1.62; }
 .date { color: var(--muted); font-size: .88rem; font-weight: 400; font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
 .publication + .publication { margin-top: 1.3rem; }
-.publication { font-size: .96rem; padding-left: 2rem; text-indent: -2rem; }
-.publication .actions { display: inline; font-size: .9rem; white-space: nowrap; }
+.publication { font-size: 1rem; padding-left: 2rem; text-indent: -2rem; }
+.publication .actions { display: inline; font-size: 1rem; white-space: nowrap; }
 .project + .project { margin-top: 1.15rem; }
 .project > p:first-child { display: flex; justify-content: space-between; gap: 1rem; }
 .project .detail { margin-top: .15rem; }
