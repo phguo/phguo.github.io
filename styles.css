@@ -41,7 +41,6 @@ h3 { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; font-
 
 section { border-top: 1px solid var(--line); padding: 2.2rem 0; }
 section > :last-child { margin-bottom: 0; }
-.profile { font-family: var(--serif); font-size: 1.1rem; line-height: 1.7; }
 .updated { color: var(--muted); font-size: .88rem; }
 ul { margin: 0; padding-left: 1.25rem; }
 li { padding-left: .15rem; }
